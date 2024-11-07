@@ -2,9 +2,10 @@
 
 This project visualizes brain images with and without tumors by transforming 2D medical images into 3D representations. Using volume rendering and image depth mapping, we aim to provide a more immersive view of brain anatomy to support medical professionals in diagnosing and studying brain tumors.
 
-### Image demostration
 
-![3D Brain Visualization](https://raw.githubusercontent.com/Nayan-Bebale/3D-Brain-Anatomy-Holoportation/refs/heads/main/demo.png)
+| Image demostration | Video demostration |
+|---------------------|------------------|
+| ![3D Brain Visualization](https://raw.githubusercontent.com/Nayan-Bebale/3D-Brain-Anatomy-Holoportation/refs/heads/main/demo.png)| [![Watch the demo video](https://img.shields.io/badge/Demo-Video-blue)](https://github.com/Nayan-Bebale/3D-Brain-Anatomy-Holoportation/blob/main/demoVideo.mp4) |
 
 ---
 
